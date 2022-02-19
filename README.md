@@ -1,4 +1,4 @@
-# Data-Mining-1
+# Data Mining 1
 
 ## Data Understanding & Preparation
 -	Data Semantics
