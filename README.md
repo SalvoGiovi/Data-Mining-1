@@ -1,5 +1,10 @@
 # Data Mining 1
 
+Group members:
+- [Federica Altavilla](https://github.com/federicaaltavilla)
+- Aura Petrucci
+- Salvatore Giovino
+
 ## Data Understanding & Preparation
 -	Data Semantics
     -	Introduce the variables with their meaning and characteristics;
