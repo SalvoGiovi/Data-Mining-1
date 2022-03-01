@@ -2,8 +2,8 @@
 
 Group members:
 - [Federica Altavilla](https://github.com/federicaaltavilla)
-- Aura Petrucci
-- Salvatore Giovino
+- [Aura Petrucci](https://github.com/aurapetrucci)
+- [Salvatore Giovino](https://github.com/SalvoGiovi)
 
 ## Data Understanding & Preparation
 -	Data Semantics
