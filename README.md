@@ -3,7 +3,7 @@
 Group members:
 - [Federica Altavilla](https://github.com/federicaaltavilla)
 - [Aura Petrucci](https://github.com/aurapetrucci)
-- [Salvatore Giovino](https://github.com/SalvoGiovi)
+- [Ismaele Gorgoglione](https://github.com/noysma)
 
 ## Data Understanding & Preparation
 -	Data Semantics
